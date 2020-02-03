@@ -1,0 +1,13 @@
+{
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  },
+  "config": {
+    "vendor-dir": "../../vendor",
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "require-dev": {
+    "kint-php/kint": "^3.3"
+  }
+}
